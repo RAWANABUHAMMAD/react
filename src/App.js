@@ -6,6 +6,7 @@
   import Task5 from "./components/Day1/task5"
   import Task6 from "./components/Day1/task6"
   import Task7 from "./components/Day1/task7"
+  // import Task7 from "./components/Day1/task7"
   import Task8 from "./components/Day1/task8"
   import Task9 from "./components/Day1/task9"
   import Task10 from "./components/Day1/task10"
