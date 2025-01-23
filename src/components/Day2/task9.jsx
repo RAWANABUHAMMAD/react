@@ -7,9 +7,7 @@ function Task9() {
      const toggleVisibility = () => setIsVisible(!isVisible);
   return (
     <div>
-     <button onClick={toggleVisibility} >
-        {isVisible ? "Hide Text" : "Show Text"}
-      </button>
+     <button onClick={toggleVisibility} > {isVisible ? "Hide Text" : "Show Text"}</button>
         {isVisible && <p>This is hidden text</p>}
        
     </div>
